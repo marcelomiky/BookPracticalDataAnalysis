@@ -1,0 +1,9 @@
+ id, typeTwo, name, type
+ 001, Poison, Bulbasaur, Grass
+ 002, Poison, Ivysaur, Grass
+ 003, Poison, Venusaur, Grass
+ 006, Flying, Charizard, Fire
+ 012, Flying, Butterfree, Bug
+ 013, Poison, Weedle, Bug
+ 014, Poison, Kakuna, Bug
+ 015, Poison, Beedrill, Bug
