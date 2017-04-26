@@ -1,0 +1,13 @@
+Pokemon:
+-id : 001
+typeTwo : Poison
+name : Bulbasaur
+type : Grass
+-id : 002
+typeTwo : Poison
+name : Ivysaur
+type : Grass
+-id : 003
+typeTwo : Poison
+name : Venusaur
+type : Grass

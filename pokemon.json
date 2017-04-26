@@ -1,0 +1,50 @@
+[
+	{
+		"id": "001",
+		"typeTwo": "Poison",
+		"name": "Bulbasaur",
+		"type": "Grass"
+	},
+	{
+		"id": "002",
+		"typeTwo": "Poison",
+		"name": "Ivysaur",
+		"type": "Grass"
+	},
+	{
+		"id": "003",
+		"typeTwo": "Poison",
+		"name": "Venusaur",
+		"type": "Grass"
+	},
+	{
+		"id": "006",
+		"typeTwo": "Flying",
+		"name": "Charizard",
+		"type": "Fire"
+	},
+	{
+		"id": "012",
+		"typeTwo": "Flying",
+		"name": "Butterfree",
+		"type": "Bug"
+	},
+	{
+		"id": "013",
+		"typeTwo": "Poison",
+		"name": "Weedle",
+		"type": "Bug"
+	},
+	{
+		"id": "014",
+		"typeTwo": "Poison",
+		"name": "Kakuna",
+		"type": "Bug"
+	},
+	{
+		"id": "015",
+		"typeTwo": "Poison",
+		"name": "Beedrill",
+		"type": "Bug"
+	}
+]
